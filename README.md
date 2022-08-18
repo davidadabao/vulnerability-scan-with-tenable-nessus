@@ -10,7 +10,7 @@ This Project consists of a simple PowerShell script that walks the user through 
 <h2>Languages and Utilities Used</h2>
 
 - <b>VS Code</b> 
-- <b>Windows COmmand Prompt</b>
+- <b>Windows Command Prompt</b>
 
 <h2>Environments Used </h2>
 
